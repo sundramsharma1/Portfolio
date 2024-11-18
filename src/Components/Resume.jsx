@@ -38,7 +38,7 @@ const Resume = ({bgcolor,darkmode}) => {
               style={{background:`${bgcolor==="white" ? "#FFF4F4" :"black"}`,  border:`${bgcolor==="white" ? "none" :"1px solid #A6A6A6"}`}}
             >
               <p  style={{ color: `${bgcolor==="white" ? "#000000" : "#A6A6A6"}`}}  >2017-2019</p>
-              <h1 style={{ color: `${bgcolor==="white" ? "#000000" : "white"}`}}>12th Class in Deepdev Inter College</h1>
+              <h1 style={{ color: `${bgcolor==="white" ? "#000000" : "white"}`}}>Intermediate, Deepdev Inter College</h1>
               <h1 style={{ color: `${bgcolor==="white" ? "#000000" : "#A6A6A6"}`}}>Haldharpur, Mau (Uttar Pradesh)</h1>
             </div>
 
@@ -47,7 +47,7 @@ const Resume = ({bgcolor,darkmode}) => {
               style={{background:`${bgcolor==="white" ? "#EEF5FA" :"black"}`,  border:`${bgcolor==="white" ? "none" :"1px solid #A6A6A6"}`}}
             >
               <p  style={{ color: `${bgcolor==="white" ? "#000000" : "#A6A6A6"}`}}  >2016-2017</p>
-              <h1 style={{ color: `${bgcolor==="white" ? "#000000" : "white"}`}}>10th Class,RSB Inter College</h1>
+              <h1 style={{ color: `${bgcolor==="white" ? "#000000" : "white"}`}}>HighSchool, RSB Inter College</h1>
               <h1 style={{ color: `${bgcolor==="white" ? "#000000" : "#A6A6A6"}`}}>Mau, Mau (Uttar Pradesh)</h1>
             </div>
           </div>
